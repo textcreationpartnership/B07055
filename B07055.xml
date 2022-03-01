@@ -1,0 +1,282 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The farthingale reviv'd: or, more work for the cooper. A panegyrick on the late, but most admirable invention of the hoop-petticoat: written at the Bath in the year 1711.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1711</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07055</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[236]</idno>
+            <idno type="EEBO-CITATION">99894461</idno>
+            <idno type="PROQUEST">ocm99894461</idno>
+            <idno type="VID">181559</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07055)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181559)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[239])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The farthingale reviv'd: or, more work for the cooper. A panegyrick on the late, but most admirable invention of the hoop-petticoat: written at the Bath in the year 1711.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Sold by John Baker in Pater-noster-Row.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1711.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop-head title.</note>
+                  <note>Verse: "There's scarce a bard, that writ in former time,".</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Enter'd in the Company of Stationers book, pursuant to the late act of Parliament"--p. 4.</note>
+                  <note>Place of publication from Foxon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clothing and dress --  Social aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:181559:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 140 -->
+            <head>
+               <hi>The Farthingale Reviv'd:</hi> OR, More Work for the Cooper. A PANEGYRICK on the late, but moſt admirable Invention of the HOOP-PETTICOAT: Written at the <hi>Bath</hi> in the Year 1711.</head>
+            <epigraph>
+               <q xml:lang="lat">
+                  <l>—Sileat Miracula Memphis.</l>
+               </q>
+               <bibl>Mart.</bibl>
+            </epigraph>
+            <lg>
+               <l>THere's ſcarce a Bard, that writ in former time,</l>
+               <l>Had e'er ſo great, ſo bright a Theme for Rhyme;</l>
+               <l>The <hi>Mantuan</hi> Swain, if living, wou'd confeſs</l>
+               <l>Ours more ſurprizing than his <hi>Tyrian</hi> Dreſs:</l>
+               <l>And <hi>Ovid</hi>'s Miſtreſs, in her looſe Attire,</l>
+               <l>Wou'd ceaſe to charm his Eyes, or raiſe Deſire;</l>
+               <l>Were he at <hi>Bath,</hi> and had theſe Coats in view,</l>
+               <l>He'd write his <hi>Metamorphoſis</hi> anew:</l>
+               <l>
+                  <hi>Delia,</hi> freſh-hoop'd, wou'd o'er his Heart prevail,</l>
+               <l>To leave <hi>Corinna,</hi> and her tawdry Veil.</l>
+            </lg>
+            <lg>
+               <l>Hear, great <hi>Apollo,</hi> and my Genius guide,</l>
+               <l>To ſing this glorious Miracle of Pride:</l>
+               <l>Nor yet diſdain the Subject for its Name,</l>
+               <l>Since meaner things have oft been ſung to Fame.</l>
+            </lg>
+            <lg>
+               <pb n="2" facs="tcp:181559:2"/>
+               <!-- PDF PAGE 141 -->
+               <l>Ev'n Boots and Spurs have grac'd Heroick Verſe;</l>
+               <l>
+                  <hi>Butler</hi> his Knight's whole Suit did well rehearſe,</l>
+               <l>King <hi>Harry</hi>'s Codpiece ſtands upon record,</l>
+               <l>And every Age will Precedents afford.</l>
+            </lg>
+            <lg>
+               <lg>
+                  <l>Then on my Muſe, and ſing in Epick Strain,</l>
+                  <l>The Petticoat—thou ſhalt not ſing in vain;</l>
+                  <l>The Petticoat will ſure reward thy Pain.</l>
+               </lg>
+               <l>With all thy Skill its ſecret Virtues tell;</l>
+               <l>A Petticoat ſhou'd ſtill be handl'd well.</l>
+            </lg>
+            <lg>
+               <l>Oh Garment, heavenly wide! thy ſpacious Round</l>
+               <l>Do's my aſtoniſh'd Thoughts almoſt confound!</l>
+               <l>My Fancy cannot graſp thee at a view;</l>
+               <l>None, at firſt Sight, e'er ſuch a Picture drew.</l>
+               <l>The daring Artiſt that deſcribes thee true,</l>
+               <l>Muſt change his Sides, as modern Stateſmen do;</l>
+               <l>Or, like the Painter, when ſome Church he draws,</l>
+               <l>Following his own, and not the Builder's Laws,</l>
+               <l>At once ſhew but one Proſpect to the Sight;</l>
+               <l>For North and South together can't be right.</l>
+            </lg>
+            <lg>
+               <l>Hence ye Profane,—nor think I ſhall reveal</l>
+               <l>The happy Wonders which theſe Veſts conceal:</l>
+               <l>Hence your unhallow'd Eyes and Ears remove;</l>
+               <l>'Tis <hi>Cupid</hi>'s Circle, 'tis the Orb of Love.</l>
+               <l>Let it ſuffice you ſee th' unwieldy Fair</l>
+               <l>Sail thro the Streets with Gales of ſwelling Air;</l>
+               <l>Nor think (like Fools) the Ladies, wou'd they try,</l>
+               <l>Arm'd with their Furbeloes, and theſe, cou'd fly:</l>
+               <l>That's all Romantick, for theſe Garments ſhow,</l>
+               <l>Their Thoughts are with their Petticoats, below.</l>
+            </lg>
+            <lg>
+               <l>Nor muſt we blame them, whilſt they ſtretch their Art</l>
+               <l>T'adorn and guard the Fundamental Part;</l>
+               <l>For that, perhaps, may ſtand 'em more in ſtead</l>
+               <l>Than Loads of Ribbons fluttering on the Head:</l>
+               <l>And let Philoſophers ſay what they will,</l>
+               <l>There's ſomething ſurer than their Eyes do's kill.</l>
+               <l>
+                  <pb n="3" facs="tcp:181559:2"/>
+                  <!-- PDF PAGE 141 -->
+We tell the Nymph, that we her Face adore:</l>
+               <l>But well ſhe knows we aim at ſomething more.</l>
+            </lg>
+            <lg>
+               <l>In vain the Ladies ſpend their Morning Hours</l>
+               <l>Erecting on their Heads ſtupendous Towers;</l>
+               <l>A Battery from thence might ſcare the Foe,</l>
+               <l>But certain Victory is gain'd below.</l>
+               <l>Let <hi>Damon</hi> then the adverſe Champion be,</l>
+               <l>Topknots for him, and Petticoats for me.</l>
+            </lg>
+            <lg>
+               <l>Nor muſt he urge, it ſpoils the Ladies Shape,</l>
+               <l>Tho (as the Multitude at Monſters gape)</l>
+               <l>The World appears all loſt in wild amaze,</l>
+               <l>As on theſe new, theſe ſtrange Machines they gaze:</l>
+               <lg>
+                  <l>For if the <hi>Cyprian</hi> Queen from <hi>Paphos</hi> came</l>
+                  <l>Attir'd, as we are told by antique Fame,</l>
+                  <l>Thus wou'd they wonder at the heav'nly Dame.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>I own, the Female World is much eſtrang'd</l>
+               <l>From what it was, and Top and Bottom chang'd:</l>
+               <lg>
+                  <l>The Head was once their darling conſtant Care,</l>
+                  <l>But Womens Heads can't heavy Burdens bear,</l>
+                  <l>As much I mean, as they can do elſewhere.</l>
+               </lg>
+               <l>So, wiſely they transfer'd the Mode of Dreſs,</l>
+               <l>And furniſh'd t'other End with the Exceſs.</l>
+               <l>What tho, like Spires, or Pyramids, they ſhow,</l>
+               <l>Sharp at the top, and of vaſt Bulk below?</l>
+               <l>It is a ſign they ſtand the more ſecure;</l>
+               <l>A May-pole will not like a Church endure:</l>
+               <l>And Ships at Sea, when ſtormy Winds prevail,</l>
+               <l>Are ſafer in their Ballaſt, than their Sail.</l>
+            </lg>
+            <lg>
+               <l>Hail, happy Coat! for modern Dam'ſels fit,</l>
+               <l>Product of Ladies, and of Taylors Wit:</l>
+               <l>Child of Invention, rather than of Pride,</l>
+               <l>What Wonders doſt thou ſhew, what Wonders hide?</l>
+               <l>Within the Shelter of thy uſeful Shade</l>
+               <l>The pregnant <hi>Flora</hi> paſſes for a Maid;</l>
+               <l>Thin <hi>Galatea</hi>'s ſhrivel'd Limbs appear</l>
+               <l>As plump and juicy as they did laſt year;</l>
+               <l>
+                  <pb n="4" facs="tcp:181559:3"/>
+                  <!-- PDF PAGE 142 -->
+Whilſt tall <hi>Miranda</hi> her lank Shape improves,</l>
+               <l>And, grac'd by thee, in ſome proportion moves:</l>
+               <l>Ev'n thoſe who are diminutively ſhort</l>
+               <l>May pleaſe themſelves, and make their Neighbours Sport,</l>
+               <l>When, to their Arm-pits harneſs'd up in thee,</l>
+               <l>Nothing but Head and Petticoat we ſee.</l>
+               <l>But Oh, what Figure fat <hi>Sempronia</hi> makes!</l>
+               <l>At her gigantick Form the Pavement quakes!</l>
+               <l>By thy addition ſhe's ſo much enlarg'd;</l>
+               <l>Where'er ſhe comes, the Sextons now are charg'd</l>
+               <l>That all Church-Doors and Pews be wider made;</l>
+               <l>A vaſt Advantege to the Joiner's Trade!</l>
+            </lg>
+            <lg>
+               <l>Ye airy Nymphs that do theſe Garments wear,</l>
+               <l>Forgive my want of Skill, not want of Care:</l>
+               <l>Forgive me, if I have not well diſplay'd</l>
+               <l>A Coat, for ſuch important Uſes made.</l>
+               <l>If ought I have forgot, it was to prove</l>
+               <l>How fit they are, how <hi>apropo's</hi> for Love:</l>
+               <l>How in their Circles cooling Zephyrs play,</l>
+               <l>And what on balmy Wings they bear away</l>
+               <l>But there my Muſe muſt halt,—ſhe dares no more</l>
+               <l>Than hope the Pardon which ſhe ask'd before.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Enter'd in the Company of Stationers Book, purſuant to the late Act of Parliament.</p>
+         </div>
+         <div type="colophon">
+            <p>Sold by JOHN BAKER in <hi>Pater-noſter-Row.</hi> 1711. Price Two Pence.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
